@@ -7,4 +7,4 @@
 | Skill | Level | Notes |
 |-------|--------|-------|
 | Python | Learning | Primary language for bot development |
-| "html" | Very Good |
+| Css | Good |
