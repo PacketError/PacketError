@@ -1,8 +1,6 @@
 <h1>Packet Error</h1>
 
-+ If you have any coole Projects you want me to join just ask! :D
-$${\color{red}\text{This text is bright red!}}$$
-$${\color{#ff6600}\text{This text uses a custom Hex color code!}}$$
+$${\color{red}\text{If you have any coole Projects you want me to join just ask! :D}}$$
 
 
 <div align="center">
