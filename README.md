@@ -8,7 +8,8 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
   </div>
 
-
+---
+---
 
 | Skill        | Level    | Notes                                 |
 |--------------|----------|---------------------------------------|
