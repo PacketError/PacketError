@@ -2,13 +2,6 @@
 
 $${\color{red}\text{If you have any coole Projects you want me to join just ask! :D}}$$
 
-<p align="center"><ins>This text is centered and underlined</ins></p>
-
-<p align="center">
-  <ins><a href="#"><img src="https://shields.io" alt="Glow Effect"></a></ins>
-</p>
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
 </div>
