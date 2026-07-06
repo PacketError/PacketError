@@ -9,6 +9,7 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
   </div>
 
 
+
 | Skill        | Level    | Notes                                 |
 |--------------|----------|---------------------------------------|
 | Python       | Learning | Primary language for bot development  |
