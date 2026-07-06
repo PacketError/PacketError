@@ -1,6 +1,12 @@
-<h1>Packet Error</h1>
+<p align="center"><ins>Packet Error</ins></p>
 
 $${\color{red}\text{If you have any coole Projects you want me to join just ask! :D}}$$
+
+<p align="center"><ins>This text is centered and underlined</ins></p>
+
+<p align="center">
+  <ins><a href="#"><img src="https://shields.io" alt="Glow Effect"></a></ins>
+</p>
 
 
 <div align="center">
