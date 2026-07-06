@@ -1,5 +1,5 @@
 <div align="center">
-<p><ins>Packet Error</ins></p>
+# <p><ins>Packet Error</ins></p>
 
 $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 <a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
@@ -7,7 +7,7 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
   <div>
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
   </div>
-</div>
+
 
 | Skill        | Level    | Notes                                 |
 |--------------|----------|---------------------------------------|
@@ -15,3 +15,5 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 | css          | Good     | stylesheet language                   |
 | "html"       | Good     | markup coding language                |
 | Java Script  | Bad      | Still have a lot to learn             |
+
+</div>
