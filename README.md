@@ -1,5 +1,9 @@
 <h1>Packet Error</h1>
-<h1 style="color #ff0000">If you have any coole Projects you want me to join just ask! :D</h1>
+
++ If you have any coole Projects you want me to join just ask! :D
+$${\color{red}\text{This text is bright red!}}$$
+$${\color{#ff6600}\text{This text uses a custom Hex color code!}}$$
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
