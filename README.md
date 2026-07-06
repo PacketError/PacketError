@@ -1,22 +1,7 @@
 <p align="center"><ins>Packet Error</ins></p>
 
-
-
-## 📬 Let's Connect!
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="mailto:packet.error@proton.me">
-        <img src="https://raw.githubusercontent.com/AnsonSavage/AnsonSavage/master/assets/gmail.gif" width="48" height="48" alt="Email" />
-      </a>
-    </td>
-    <td>
-      <strong>$${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$</strong><br />
-      <a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
-    </td>
-  </tr>
-</table>
+$${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
+<a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
