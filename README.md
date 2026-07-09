@@ -8,13 +8,13 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 <p>An info terminal developed with <a href="https://github.com/RealyStupid">@RealyStupid</a></p>
 <a href="https://packeterror-realystupid.github.io/terminalweb/">https://packeterror-realystupid.github.io/terminalweb/</a>
 
-```
+<!-- 
 <p align="center">
   <a href="https://packeterror-realystupid.github.io/terminalweb/">
     <img src="img/web.png" alt="Website Vorschau" width="100%">
   </a>
 </p>
-```
+-->
 
 
   <div>
