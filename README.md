@@ -16,6 +16,8 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
   <br />
   <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
 
+<br />
+
   <p>An info terminal developed with <a href="https://github.com/RealyStupid">@RealyStupid</a></p>
 <a href="https://packeterror-realystupid.github.io/terminalweb/">https://packeterror-realystupid.github.io/terminalweb/</a>
 
