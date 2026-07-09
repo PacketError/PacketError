@@ -12,7 +12,7 @@ If you want me to join your coole Projekts just ask! :D
 <p>&nbsp;<p/>
 
   <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>&emsp;
-  &emsp;<img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />&emsp;&emsp;&emsp;
+  &emsp;<img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />&emsp;&emsp;
   <br />
   <br />
   <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
