@@ -7,7 +7,7 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 
 <p align="center">
   <a href="https://packeterror-realystupid.github.io/terminalweb/">
-    <img src="img/web" alt="Website Vorschau" width="100%">
+    <img src="img/web.png" alt="Website Vorschau" width="100%">
   </a>
 </p>
 
