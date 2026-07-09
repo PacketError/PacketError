@@ -7,7 +7,11 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
   <div>
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
   </div>
-
+<p>&nbsp;<p/>
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
+  <img width="40" />
 <p>&nbsp;</p>
 
 | Skill        | Level    | Notes                                 |
