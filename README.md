@@ -11,7 +11,8 @@ If you want me to join your coole Projekts just ask! :D
   </div>
 <p>&nbsp;<p/>
 
-  <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />
   <br />
   <br />
