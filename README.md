@@ -10,8 +10,23 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 <p>&nbsp;<p/>
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
   <img width="40" />
+
+  https://skillicons.dev/icons?i=windows
+
+  
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
   <img width="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img width="40" />
+
+  testing:
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+  
 <p>&nbsp;</p>
 
 | Skill        | Level    | Notes                                 |
