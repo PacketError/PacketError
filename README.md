@@ -9,7 +9,7 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
   </div>
 <p>&nbsp;<p/>
   
-  <img src="https://skillicons.dev/icons?i=windows,apple, linux, " height="40"/><p>&nbsp;<p/><img src="https://skillicons.dev/icons?i=windows,apple, linux, " height="40"/>
+  <img src="https://skillicons.dev/icons?i=windows, apple, linux" height="40"/>
   <br />
     <img src="https://skillicons.dev/icons?i=discord, github" height="40" />
   <img width="40" />
