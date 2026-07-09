@@ -3,6 +3,13 @@
 
 $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 <a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
+<br />
+
+<p align="center">
+  <a href="https://packeterror-realystupid.github.io/terminalweb/">
+    <img src="img/web" alt="Website Vorschau" width="100%">
+  </a>
+</p>
 
   <div>
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
