@@ -8,11 +8,11 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
   </div>
 <p>&nbsp;<p/>
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
-  <img width="40" />
-
   
-  <img src="https://skillicons.dev/icons?i=windows,apple," height="40"/>
+  <img src="https://skillicons.dev/icons?i=windows,apple, linux, " height="40"/><p>&nbsp;<p/><img src="https://skillicons.dev/icons?i=windows,apple, linux, " height="40"/>
+  <br />
+    <img src="https://skillicons.dev/icons?i=discord, github" height="40" />
+  <img width="40" />
   <br />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
   <br />
