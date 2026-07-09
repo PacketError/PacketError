@@ -12,8 +12,10 @@ $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
   <img width="40" />
 
   
-  <img src="https://skillicons.dev/icons?i=windows,apple," height="40"/><p>&nbsp;<p/>
+  <img src="https://skillicons.dev/icons?i=windows,apple," height="40"/>
+  <br />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
+  <br />
   <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
 
   
