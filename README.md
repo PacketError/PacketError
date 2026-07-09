@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Packet Error</h1>  
 
-$${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
+<span style="color:red">If you want me to join your coole Projekts just ask! :D</span>
 <a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
 <br />
 <br />
