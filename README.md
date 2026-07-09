@@ -4,7 +4,8 @@
 $${\color{red}\text{If you want me to join your coole Projekts just ask! :D}}$$
 <a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
 <br />
-
+<br />
+<h2>An info hub developed with @username<a href="https://github.com/RealyStupid">@RealyStupid</a></h2>
 <p align="center">
   <a href="https://packeterror-realystupid.github.io/terminalweb/">
     <img src="img/web.png" alt="Website Vorschau" width="100%">
