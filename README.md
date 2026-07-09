@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Packet Error</h1>  
-  
-[!CAUTION]
+
 If you want me to join your coole Projekts just ask! :D
 <a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
 <br />
