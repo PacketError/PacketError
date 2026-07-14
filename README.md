@@ -57,17 +57,6 @@
 <p align="center"><i>⭐️ From <a href="https://github.com/PacketError">PacketError</a></i></p>
 
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>
-  <br />
-  <img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />
-  <br />
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
-
-<br />
-
   <p>An info terminal developed with <a href="https://github.com/RealyStupid">@RealyStupid</a></p>
 <a href="https://packeterror-realystupid.github.io/terminalweb/">https://packeterror-realystupid.github.io/terminalweb/</a>
 
