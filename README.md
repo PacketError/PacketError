@@ -52,17 +52,8 @@
 <p align="center"><i>⭐️ From <a href="https://github.com/PacketError">PacketError</a></i></p>
 
 
-
 <div align="center">
-
-If you want me to join your coole Projekts just ask! :D
-<a href="mailto:packet.error@proton.me">packet.error@proton.me</a>
-<br />
-<br />
-
-  <div>
-    <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
-  </div>
+  
 <p>&nbsp;<p/>
 
   <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>
