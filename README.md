@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=I%20Like%20Building%20websites%20and%20%20learn%20stuff%20for%20Ethical%20Hacking;I%20was%20interested%20in%20programming%20when%20i%20was%2010" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=I%20Like%20Building%20websites%20and%20%20learn%20stuff%20for%20Ethical%20Hacking;I%20have%20been%20interested%20in%20programming%20since%20I%20was%2010" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
