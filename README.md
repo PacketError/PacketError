@@ -34,30 +34,9 @@
 <p align="left">
   <a href="mailto:packet.error@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-  
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=PacketError&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=PacketError&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
 ---
-<div>
-    <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
-</div>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PacketError&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/PacketError">PacketError</a></i></p>
-
-
-  <p>An info terminal developed with <a href="https://github.com/RealyStupid">@RealyStupid</a></p>
+<p>An info terminal developed with <a href="https://github.com/RealyStupid">@RealyStupid</a></p>
 <a href="https://packeterror-realystupid.github.io/terminalweb/">https://packeterror-realystupid.github.io/terminalweb/</a>
 
 <!-- 
@@ -78,3 +57,24 @@
 | Java Script  | Bad      | Still have a lot to learn             |
 
 </div>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=PacketError&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=PacketError&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+---
+<div>
+    <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
+</div>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PacketError&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/PacketError">PacketError</a></i></p>
