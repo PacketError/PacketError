@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 <br />
-  <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>&nbsp;<img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=8" height="40" />
+  <img src="https://skillicons.dev/icons?i=" height="40"/>&nbsp;<img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux, &nbsp, discord,github,vscode,netlify&perline=8" height="40" />
  
   <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
 
