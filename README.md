@@ -18,20 +18,15 @@
 
 ### 🛠️ Tech Stack
 
+<br />
+  <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
-
-<br />
-  <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux" height="40"/>
-  <br />
-  <img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />
-  <br />
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
-
-<br />
 
 ### 🔗 Connect With Me
 
