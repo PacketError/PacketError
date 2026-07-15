@@ -43,7 +43,7 @@
 </p>
 
 ---
-<div>
+<div style="width: 100%; height: auto; border-radius: 25px; background-color: aqua;">
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
 </div>
 
