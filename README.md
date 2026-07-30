@@ -10,11 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **IP-Grabber and stuff**  
 🌱 &nbsp;I'm currently learning **Python**  
-👯 &nbsp;I'm looking to collaborate on **all kind of open source Projekts**  
-🤔 &nbsp;I'm looking for help with **Ethical Hacking**  
-😄 &nbsp;Pronouns: **he/him**
+👯 &nbsp;I'm looking to collaborate on **all kind of open source Projekts**
 
 ### 🛠️ Tech Stack
 
