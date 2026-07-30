@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 
 <br/>
-  <img src="https://skillicons.dev/icons?i=discord,github,vscode,netlify&perline=4" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode,netlify&perline=4" height="40" />
 
 ### 🔗 Connect With Me
 
