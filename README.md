@@ -11,11 +11,6 @@
 &nbsp;I'm currently learning **Python**  
 &nbsp;I'm looking to collaborate on **all kind of open source Projekts**
 
-### 🛠️ Tech Stack
-
-<br/>
-  <img src="https://skillicons.dev/icons?i=vscode,netlify&perline=4" height="40" />
-
 ### 🔗 Connect With Me
 
 <p align="left">
