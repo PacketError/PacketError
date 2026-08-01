@@ -26,5 +26,3 @@
 <div>
     <img src="https://raw.githubusercontent.com/PacketError/PacketError/output/snake.svg" alt="Snake animation" />
 </div>
----
-<p align="center"><i>⭐️ From <a href="https://github.com/PacketError">PacketError</a></i></p>
