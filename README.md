@@ -17,6 +17,6 @@
 
 <p align="left">
   <a href="mailto:packet.error@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a
-  <div style="width: 60px;"></div>
+  <div style="width: 150px;"></div>
   <a href="https://discord.com/users/1510454972188327988" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" height="40" /></a
 </p>
