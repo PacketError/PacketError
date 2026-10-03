@@ -21,3 +21,5 @@
   <br>
   <a href="mailto:packet.error@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a
 </p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="340995af-85f4-4943-9851-5a12a9ea2de9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
