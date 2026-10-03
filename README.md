@@ -22,4 +22,4 @@
   <a href="mailto:packet.error@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a
 </p>
 
-[![Credly Badge](https://credly.com)](https://www.credly.com/badges/340995af-85f4-4943-9851-5a12a9ea2de9/public_url)
+[![Credly Badge]([https://credly.com](https://www.credly.com/badges/340995af-85f4-4943-9851-5a12a9ea2de9/public_url))](https://www.credly.com/badges/340995af-85f4-4943-9851-5a12a9ea2de9/public_url)
