@@ -21,7 +21,3 @@
   <br>
   <a href="mailto:packet.error@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a
 </p>
-
-<a href="https://credly.com" target="_blank">
-  <img src="https://shields.io" alt="Cisco Introduction to Cybersecurity Badge">
-</a>
